@@ -1,8 +1,8 @@
-import { ProductOffer } from "./product-offer-interface";
 import {UnsecuredOffer} from "./unsecured-offer";
 import {SecuredOffer} from "./secured-offer";
 
 //Delegation
+// Replace Inheritance with Delegation.
 export class DualOfferDelegation {
     private unsecuredOffer: UnsecuredOffer;
     private securedOffer: SecuredOffer;
