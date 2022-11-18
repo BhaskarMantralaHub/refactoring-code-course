@@ -1,0 +1,22 @@
+{
+  "name": "refactoring-code-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhaskarMantralaHub/refactoring-code-course.git"
+  },
+  "author": "BhaskarMantrala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhaskarMantralaHub/refactoring-code-course/issues"
+  },
+  "homepage": "https://github.com/BhaskarMantralaHub/refactoring-code-course#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
